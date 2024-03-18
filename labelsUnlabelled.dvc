@@ -1,0 +1,6 @@
+outs:
+- md5: 65ffdd604eb530fcd627904e4d011194.dir
+  size: 801398
+  nfiles: 26
+  hash: md5
+  path: labelsUnlabelled

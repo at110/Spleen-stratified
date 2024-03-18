@@ -1,0 +1,6 @@
+outs:
+- md5: d0edee13359c6f39d6df41767b1cf489.dir
+  size: 483288195
+  nfiles: 20
+  hash: md5
+  path: imagesTs
