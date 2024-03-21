@@ -1,6 +1,6 @@
 outs:
-- md5: 308ac1b9cef740f7b17987c19bc620eb.dir
-  size: 713048
-  nfiles: 23
+- md5: 34354be11ab2a6d0bd9daca8f19f56c8.dir
+  size: 532909
+  nfiles: 17
   hash: md5
   path: labelsUnlabelled
