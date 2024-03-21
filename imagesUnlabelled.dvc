@@ -1,6 +1,6 @@
 outs:
-- md5: cdb88e039c5c4ebece2e5e6aa2e31064.dir
-  size: 501187131
-  nfiles: 17
+- md5: 22c245b0d16a02d3c0362f948250981b.dir
+  size: 320639242
+  nfiles: 11
   hash: md5
   path: imagesUnlabelled
