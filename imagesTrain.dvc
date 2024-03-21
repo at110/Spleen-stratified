@@ -1,6 +1,6 @@
 outs:
-- md5: c21aa568c8b03437de3fae6110b807c4.dir
-  size: 27567086
-  nfiles: 3
+- md5: 5c4691de2b94735d872332fbc22cbc88.dir
+  size: 84479238
+  nfiles: 5
   hash: md5
   path: imagesTrain
