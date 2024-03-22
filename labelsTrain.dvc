@@ -1,6 +1,6 @@
 outs:
-- md5: e11b969517743d148171511cb4d2b634.dir
-  size: 341372554
+- md5: 2fe8002166180e18991c68c71480acc2.dir
+  size: 321540012
   nfiles: 29
   hash: md5
   path: labelsTrain
